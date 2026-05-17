@@ -66,6 +66,19 @@ python server.py
 http://127.0.0.1:9666
 ```
 
+每条用户消息末尾追加（建议设置）：
+```txt
+如果你需要发送多条消息，使用&n&作为间隔符。
+你必须输出在末尾添加一个**Emotion:Sad** \t\t **MsgColor:#FFC0CB**。其中sad表示感情。#FFC0CB表示这条消息的气泡颜色。根据需要调整感情与颜色。气泡颜色使用较为温馨的马卡龙色系。
+```
+
+System Prompt（建议设置）：
+```
+<RULES>
+如果你需要发送多条消息，使用&n&作为间隔符。
+```
+
+
 ### 2. 抓取脚本
 
 ```powershell
@@ -95,7 +108,7 @@ python downloadchatmsg_v2.py --help
 
 这个目录默认会持续写入，不适合直接提交真实个人数据。
 
-## 截图（待补充）
+## 截图
 把截图放到 `docs/screenshots/` 目录，然后替换/保留下面链接即可。
 
 ### 首页与聊天界面
@@ -110,12 +123,4 @@ python downloadchatmsg_v2.py --help
 ### 情绪标签与消息颜色
 ![情绪显示](docs/screenshots/emotion-color.png)
 
-## 数据与安全
 
-- 不要提交真实 API Key、Cookie、Token
-- 分享仓库前建议清理或脱敏 `frontend/data/`
-- `frontend/data/api_requests.jsonl` 会记录请求参数和响应内容，虽然鉴权字段会脱敏，但正文仍可能包含敏感内容
-
-## License
-
-准备公开仓库时，建议补一个 `LICENSE` 文件，例如 `MIT` 或 `Apache-2.0`。
