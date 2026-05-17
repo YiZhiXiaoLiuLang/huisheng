@@ -1,0 +1,10 @@
+{
+  "source_path": "C:\\Users\\hill\\AppData\\Local\\Temp\\tmpqv9yo1aj.json",
+  "persona_name": "tmpqv9yo1aj",
+  "target_sender": "assistant",
+  "skill_path": "F:\\下载\\kk\\frontend\\data\\twin\\skill.json",
+  "memory_index_path": "F:\\下载\\kk\\frontend\\data\\twin\\memory_index.json",
+  "corpus_path": "F:\\下载\\kk\\frontend\\data\\twin\\corpus.json",
+  "active_checkpoint_id": "c6f81d3d16fd49609f515a4ee3cc4499",
+  "updated_at": "2026-05-17 11:05:49"
+}

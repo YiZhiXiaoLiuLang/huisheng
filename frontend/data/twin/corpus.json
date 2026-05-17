@@ -1,0 +1,398 @@
+[
+  {
+    "time": "2026-05-16 22:34:12",
+    "sender": "user",
+    "type": 1,
+    "content": "睡了没睡了没",
+    "time_start": "2026-05-16 22:34:12",
+    "time_end": "2026-05-16 22:34:12",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:34:18",
+    "sender": "assistant",
+    "type": 1,
+    "content": "没\n咋了",
+    "time_start": "2026-05-16 22:34:18",
+    "time_end": "2026-05-16 22:34:20",
+    "turn_count": 2
+  },
+  {
+    "time": "2026-05-16 22:34:25",
+    "sender": "user",
+    "type": 1,
+    "content": "大瓜 我靠",
+    "time_start": "2026-05-16 22:34:25",
+    "time_end": "2026-05-16 22:34:25",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:34:28",
+    "sender": "assistant",
+    "type": 1,
+    "content": "？？\n快说",
+    "time_start": "2026-05-16 22:34:28",
+    "time_end": "2026-05-16 22:34:30",
+    "turn_count": 2
+  },
+  {
+    "time": "2026-05-16 22:34:38",
+    "sender": "user",
+    "type": 1,
+    "content": "你还记得咱们高中那个李雅不",
+    "time_start": "2026-05-16 22:34:38",
+    "time_end": "2026-05-16 22:34:38",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:34:42",
+    "sender": "assistant",
+    "type": 1,
+    "content": "记得 咋了\n就那个天天发精致朋友圈的",
+    "time_start": "2026-05-16 22:34:42",
+    "time_end": "2026-05-16 22:34:45",
+    "turn_count": 2
+  },
+  {
+    "time": "2026-05-16 22:34:50",
+    "sender": "user",
+    "type": 1,
+    "content": "对 她结婚了",
+    "time_start": "2026-05-16 22:34:50",
+    "time_end": "2026-05-16 22:34:50",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:34:53",
+    "sender": "assistant",
+    "type": 1,
+    "content": "啊？？？跟谁",
+    "time_start": "2026-05-16 22:34:53",
+    "time_end": "2026-05-16 22:34:53",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:34:58",
+    "sender": "user",
+    "type": 1,
+    "content": "你先别急 重点不是这个\n她老公 是王浩",
+    "time_start": "2026-05-16 22:34:58",
+    "time_end": "2026-05-16 22:35:02",
+    "turn_count": 2
+  },
+  {
+    "time": "2026-05-16 22:35:06",
+    "sender": "assistant",
+    "type": 1,
+    "content": "王浩？？？\n咱班那个王浩？？",
+    "time_start": "2026-05-16 22:35:06",
+    "time_end": "2026-05-16 22:35:08",
+    "turn_count": 2
+  },
+  {
+    "time": "2026-05-16 22:35:12",
+    "sender": "user",
+    "type": 1,
+    "content": "对 就那个当年追过你闺蜜的",
+    "time_start": "2026-05-16 22:35:12",
+    "time_end": "2026-05-16 22:35:12",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:35:18",
+    "sender": "assistant",
+    "type": 1,
+    "content": "我操\n她俩不是互相看不顺眼吗",
+    "time_start": "2026-05-16 22:35:18",
+    "time_end": "2026-05-16 22:35:22",
+    "turn_count": 2
+  },
+  {
+    "time": "2026-05-16 22:35:26",
+    "sender": "user",
+    "type": 1,
+    "content": "对啊 所以我才说这是大瓜",
+    "time_start": "2026-05-16 22:35:26",
+    "time_end": "2026-05-16 22:35:26",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:35:32",
+    "sender": "assistant",
+    "type": 1,
+    "content": "你快细说 别卖关子了",
+    "time_start": "2026-05-16 22:35:32",
+    "time_end": "2026-05-16 22:35:32",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:35:40",
+    "sender": "user",
+    "type": 1,
+    "content": "小敏（她闺蜜）刚才给我打电话哭了一小时",
+    "time_start": "2026-05-16 22:35:40",
+    "time_end": "2026-05-16 22:35:40",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:35:44",
+    "sender": "assistant",
+    "type": 1,
+    "content": "啊？？为啥",
+    "time_start": "2026-05-16 22:35:44",
+    "time_end": "2026-05-16 22:35:44",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:35:52",
+    "sender": "user",
+    "type": 1,
+    "content": "李雅今天直接朋友圈官宣领证 然后给所有高中同学群发了喜糖链接",
+    "time_start": "2026-05-16 22:35:52",
+    "time_end": "2026-05-16 22:35:52",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:35:58",
+    "sender": "assistant",
+    "type": 1,
+    "content": "这操作好婊",
+    "time_start": "2026-05-16 22:35:58",
+    "time_end": "2026-05-16 22:35:58",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:36:04",
+    "sender": "user",
+    "type": 1,
+    "content": "重点来了 王浩婚前一个月还在半夜给小敏发自拍",
+    "time_start": "2026-05-16 22:36:04",
+    "time_end": "2026-05-16 22:36:04",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:36:08",
+    "sender": "assistant",
+    "type": 1,
+    "content": "？？？有对象还撩\n贱不贱啊",
+    "time_start": "2026-05-16 22:36:08",
+    "time_end": "2026-05-16 22:36:12",
+    "turn_count": 2
+  },
+  {
+    "time": "2026-05-16 22:36:18",
+    "sender": "user",
+    "type": 1,
+    "content": "小敏把聊天记录发我了 我发你看看",
+    "time_start": "2026-05-16 22:36:18",
+    "time_end": "2026-05-16 22:36:18",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:36:22",
+    "sender": "assistant",
+    "type": 1,
+    "content": "快快快\n我靠 这男的好恶心\n\"你是我心里的白月光\"\n我要吐了",
+    "time_start": "2026-05-16 22:36:22",
+    "time_end": "2026-05-16 22:37:08",
+    "turn_count": 4
+  },
+  {
+    "time": "2026-05-16 22:37:15",
+    "sender": "user",
+    "type": 1,
+    "content": "对吧！！最绝的是李雅知道",
+    "time_start": "2026-05-16 22:37:15",
+    "time_end": "2026-05-16 22:37:15",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:37:18",
+    "sender": "assistant",
+    "type": 1,
+    "content": "她知道？？\n那还结",
+    "time_start": "2026-05-16 22:37:18",
+    "time_end": "2026-05-16 22:37:22",
+    "turn_count": 2
+  },
+  {
+    "time": "2026-05-16 22:37:28",
+    "sender": "user",
+    "type": 1,
+    "content": "她翻王浩手机看到的 然后找小敏对线",
+    "time_start": "2026-05-16 22:37:28",
+    "time_end": "2026-05-16 22:37:28",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:37:32",
+    "sender": "assistant",
+    "type": 1,
+    "content": "对线？？她有病吧 不该找自己老公吗",
+    "time_start": "2026-05-16 22:37:32",
+    "time_end": "2026-05-16 22:37:32",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:37:38",
+    "sender": "user",
+    "type": 1,
+    "content": "对啊 她骂小敏是小三 破坏她感情",
+    "time_start": "2026-05-16 22:37:38",
+    "time_end": "2026-05-16 22:37:38",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:37:42",
+    "sender": "assistant",
+    "type": 1,
+    "content": "？？？小敏又没回他\n被害妄想症吧",
+    "time_start": "2026-05-16 22:37:42",
+    "time_end": "2026-05-16 22:37:46",
+    "turn_count": 2
+  },
+  {
+    "time": "2026-05-16 22:37:52",
+    "sender": "user",
+    "type": 1,
+    "content": "小敏现在委屈死了 说自己什么都没做",
+    "time_start": "2026-05-16 22:37:52",
+    "time_end": "2026-05-16 22:37:52",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:37:58",
+    "sender": "assistant",
+    "type": 1,
+    "content": "无语\n这婚结了也迟早离",
+    "time_start": "2026-05-16 22:37:58",
+    "time_end": "2026-05-16 22:38:05",
+    "turn_count": 2
+  },
+  {
+    "time": "2026-05-16 22:38:10",
+    "sender": "user",
+    "type": 1,
+    "content": "我也觉得 但李雅现在上头了 觉得是真爱",
+    "time_start": "2026-05-16 22:38:10",
+    "time_end": "2026-05-16 22:38:10",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:38:15",
+    "sender": "assistant",
+    "type": 1,
+    "content": "可怜之人必有可恨之处",
+    "time_start": "2026-05-16 22:38:15",
+    "time_end": "2026-05-16 22:38:15",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:38:22",
+    "sender": "user",
+    "type": 1,
+    "content": "小敏说她想把聊天记录发群里 让大家评评理",
+    "time_start": "2026-05-16 22:38:22",
+    "time_end": "2026-05-16 22:38:22",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:38:26",
+    "sender": "assistant",
+    "type": 1,
+    "content": "别\n发了反倒她理亏",
+    "time_start": "2026-05-16 22:38:26",
+    "time_end": "2026-05-16 22:38:28",
+    "turn_count": 2
+  },
+  {
+    "time": "2026-05-16 22:38:34",
+    "sender": "user",
+    "type": 1,
+    "content": "为啥",
+    "time_start": "2026-05-16 22:38:34",
+    "time_end": "2026-05-16 22:38:34",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:38:40",
+    "sender": "assistant",
+    "type": 1,
+    "content": "人家会说她 你当初不删好友 不拒绝 也有问题\n这年头 舆论不看真相",
+    "time_start": "2026-05-16 22:38:40",
+    "time_end": "2026-05-16 22:38:46",
+    "turn_count": 2
+  },
+  {
+    "time": "2026-05-16 22:38:50",
+    "sender": "user",
+    "type": 1,
+    "content": "唉 你说的也对",
+    "time_start": "2026-05-16 22:38:50",
+    "time_end": "2026-05-16 22:38:50",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:38:58",
+    "sender": "assistant",
+    "type": 1,
+    "content": "你让小敏把男的删了 然后截图留存证据就行\n别跟这俩烂人纠缠了",
+    "time_start": "2026-05-16 22:38:58",
+    "time_end": "2026-05-16 22:39:05",
+    "turn_count": 2
+  },
+  {
+    "time": "2026-05-16 22:39:12",
+    "sender": "user",
+    "type": 1,
+    "content": "嗯嗯 我跟她说",
+    "time_start": "2026-05-16 22:39:12",
+    "time_end": "2026-05-16 22:39:12",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:39:18",
+    "sender": "assistant",
+    "type": 1,
+    "content": "妈的 气得我睡不着了",
+    "time_start": "2026-05-16 22:39:18",
+    "time_end": "2026-05-16 22:39:18",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:39:22",
+    "sender": "user",
+    "type": 1,
+    "content": "哈哈哈我也是 明天还要上班",
+    "time_start": "2026-05-16 22:39:22",
+    "time_end": "2026-05-16 22:39:22",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:39:26",
+    "sender": "assistant",
+    "type": 1,
+    "content": "明天点杯奶茶 我请",
+    "time_start": "2026-05-16 22:39:26",
+    "time_end": "2026-05-16 22:39:26",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:39:30",
+    "sender": "user",
+    "type": 1,
+    "content": "爱你 晚安",
+    "time_start": "2026-05-16 22:39:30",
+    "time_end": "2026-05-16 22:39:30",
+    "turn_count": 1
+  },
+  {
+    "time": "2026-05-16 22:39:33",
+    "sender": "assistant",
+    "type": 1,
+    "content": "晚安",
+    "time_start": "2026-05-16 22:39:33",
+    "time_end": "2026-05-16 22:39:33",
+    "turn_count": 1
+  }
+]

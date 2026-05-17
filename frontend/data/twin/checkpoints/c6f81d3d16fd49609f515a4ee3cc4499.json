@@ -1,0 +1,26 @@
+{
+  "id": "c6f81d3d16fd49609f515a4ee3cc4499",
+  "conversation_id": "73d1069d8bff42b48d0ba8d264391aea",
+  "label": "2",
+  "created_at": "2026-05-17 11:05:49",
+  "conversation": {
+    "id": "73d1069d8bff42b48d0ba8d264391aea",
+    "title": "在吗 如果你需要发送多条消息，使用&n&作为间隔",
+    "created_at": "2026-05-17 10:11:43",
+    "updated_at": "2026-05-17 10:11:51",
+    "messages": [
+      {
+        "time": "2026-05-17 10:11:43",
+        "sender": "user",
+        "type": 1,
+        "content": "在吗\n如果你需要发送多条消息，使用&n&作为间隔符。\n你必须输出在末尾添加一个**Emotion:Sad** \\t\\t **MsgColor:#FFC0CB**。其中sad表示感情。#FFC0CB表示这条消息的气泡颜色。根据需要调整感情与颜色。气泡颜色使用较为温馨的马卡龙色系。"
+      },
+      {
+        "time": "2026-05-17 10:11:51",
+        "sender": "assistant",
+        "type": 1,
+        "content": "在\n咋了 又有瓜？\n**Emotion:Curious** **MsgColor:#FFB6C1**"
+      }
+    ]
+  }
+}
